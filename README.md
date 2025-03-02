@@ -30,6 +30,10 @@ Java, Swift, Flutter, Angular and Python are some of the many technologies I wor
 ### 🗪 Contact
 You can contact me at [gonza359@gmail.com](mailto:gonza359@gmail.com) or at [Linkedin](https://www.linkedin.com/in/antogoncap/)
 
+### 🔗 Links
+
+&rarr; [My portfolio](https://doxtordoz.github.io/)
+
 <!--
 **DoxtorDoz/doxtordoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
